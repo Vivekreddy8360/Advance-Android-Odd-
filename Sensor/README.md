@@ -103,8 +103,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![](1.png)
-![](2.png)
+![](1.png.png)
+![](2.png.png)
 
 
 ## RESULT
