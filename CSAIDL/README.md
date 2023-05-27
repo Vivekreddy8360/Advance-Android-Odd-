@@ -180,8 +180,11 @@ interface MultiplyInterface {
 </RelativeLayout>
 ```
 ## OUTPUT
+
+
 <img width="1440" alt="aidl1" src="https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/2004b9b3-f03c-417a-81dc-2566b3eeee4a">
 
+<img width="1440" alt="aidl2" src="https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/9d7a08b2-5a13-45c7-890d-e5ef6dbdf015">
 
 <img width="454" alt="aidl4" src="https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/4091a5c6-efca-4f08-bc46-fe1e9d2466ec">
 
