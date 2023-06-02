@@ -208,9 +208,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
+![exp6-1](https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/4c0601d3-46c1-4977-a214-09d1fe3101d5)
 
+![exp6-2java](https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/9dbec804-dda9-4cd5-978e-bca01c06e2a6)
 
-
+![exp6java](https://github.com/Vivekreddy8360/Advance-Android-Odd-/assets/94525701/311f0528-49fd-4d60-a6e9-0d7890a53b1c)
 
 
 ## RESULT
